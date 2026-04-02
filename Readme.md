@@ -10,23 +10,22 @@ Skills applied in this project:
 * Interactive web elements
 
 
-![](screenshot/Screenshot2.png)
 
 ![](screenshot/Screenshot1.png)
 
-![](screenshot/Screenshot6.png)
-
-![](screenshot/Screenshot10.png)
+![](screenshot/Screenshot15.png)
 
 
 ![](screenshot/Screenshot3.png)
 
 ![](screenshot/Screenshot11.png)
 
-![](screenshot/Screenshot4.png)
-
 ![](screenshot/Screenshot12.png)
 
 ![](screenshot/Screenshot5.png)
+
+![](screenshot/Screenshot13.png)
+
+![](screenshot/Screenshot4.png)
 
 ![](screenshot/Screenshot13.png)
