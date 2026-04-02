@@ -372,7 +372,9 @@ footer {
         max-width: 70%; 
         height: auto;
     }
-
+    .menu-links {
+    font-size: 13px;
+    }
 
 }
 
