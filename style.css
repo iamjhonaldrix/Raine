@@ -398,7 +398,7 @@ ul li a {
 footer {
     display: flex;
     justify-content: center;
-    background-color: rgb(117, 0, 50);
+    background-color: black;
     padding: 20px;
     color: white;
 }
