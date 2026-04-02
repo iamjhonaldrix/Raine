@@ -16,11 +16,17 @@ Skills applied in this project:
 
 ![](screenshot/Screenshot6.png)
 
+![](screenshot/Screenshot10.png)
+
 
 ![](screenshot/Screenshot3.png)
 
+![](screenshot/Screenshot11.png)
 
 ![](screenshot/Screenshot4.png)
 
+![](screenshot/Screenshot12.png)
 
 ![](screenshot/Screenshot5.png)
+
+![](screenshot/Screenshot6.png)13
