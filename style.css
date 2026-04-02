@@ -116,6 +116,10 @@ ul li a {
     color: pink;
 }
 
+.menu {
+    position: relative;
+}
+
 .menu image {
     margin-right: auto;
 }
@@ -402,8 +406,5 @@ footer {
     }
     .menu image {
         display: none;
-    }
-    .blog-post a {
-
     }
 }
