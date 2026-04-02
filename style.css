@@ -173,7 +173,71 @@ ul li a {
     box-shadow:  0px 5px 15px rgba(0, 0, 0, 0.7);
 }
 
+@media (max-width: 1200px) {
+       nav {
+        gap: auto;
+        flex-wrap: wrap; 
+    }
+    .aboutme1 {
+        margin-inline: 50px;
+        gap: 40px;
+    }
+    .myName h1 {
+        font-size: 55px;
+    }
+}
 
+@media (max-width: 900px) {
+    nav {
+        gap: 150px;
+        flex-wrap: wrap;
+    }
+    .aboutme1 {
+        margin-inline: 30px;
+        gap: 20px;
+    }
+    .hero {
+        margin-block-end: 50px;
+    }
+    .myName h1 {
+        font-size: 45px;
+    }
+    .myName p {
+        font-size: 14px;
+        margin-bottom: 50px;
+    }
+    .aboutme1 img {
+        max-width: 70%; 
+        height: auto;
+    }
+}
+
+@media (max-width: 600px) {
+    .aboutme1 {
+        flex-direction: column;
+        margin-inline: 20px;
+        gap: 20px;
+    }
+    .aboutme2 {
+        margin-block: 60px;
+    }
+    nav {
+        gap: 50px; 
+        flex-wrap: wrap;
+    }
+    .myName h1 {
+        font-size: 35px;
+        text-align: center;
+    }
+    .myName p {
+        font-size: 12px;
+    }
+    .aboutme1 img {
+        max-width: 100%; 
+        height: auto;
+        margin: 0 auto;
+    }
+}
 
 /* page3 */
 .page3 {
