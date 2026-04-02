@@ -9,10 +9,12 @@ Skills applied in this project:
 * Responsive design & layout
 * Interactive web elements
 
-![](screenshot/Screenshot1.png)
-
 
 ![](screenshot/Screenshot2.png)
+
+![](screenshot/Screenshot1.png)
+
+![](screenshot/Screenshot6.png)
 
 
 ![](screenshot/Screenshot3.png)
